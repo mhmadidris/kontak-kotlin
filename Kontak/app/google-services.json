@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609040010982",
+    "firebase_url": "https://kontak-ba3b0-default-rtdb.firebaseio.com",
+    "project_id": "kontak-ba3b0",
+    "storage_bucket": "kontak-ba3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609040010982:android:8128bebb2cbc99fa13f527",
+        "android_client_info": {
+          "package_name": "org.d3if2074.assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609040010982-355apdvfc0e1plvv6nfovhd4s8ln3j4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhFurVIkOEqtT75LBvXNvbOrBH-6G2d9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609040010982-355apdvfc0e1plvv6nfovhd4s8ln3j4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
